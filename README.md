@@ -81,7 +81,7 @@ It's very common for a CPU to be compatible with multiple chipsets, so it's also
 
 In addition to those, a PC object will contain reference to those 8 parts, and a User object will contain user information and references to configured PCs. 
 
-## [Link to Schema](db.mjs) 
+## [Link to Schema](backend/db.mjs) 
 
 ## Examples
 
