@@ -1,0 +1,28 @@
+{
+  "name": "final-project-lichang0824",
+  "version": "1.0.0",
+  "description": "The content below is an example project proposal / requirements document. Replace the text below the lines marked \"__TODO__\" with details specific to your project. Remove the \"TODO\" lines.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-fall-2022/final-project-lichang0824.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-fall-2022/final-project-lichang0824/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-fall-2022/final-project-lichang0824#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.7.0"
+  }
+}
